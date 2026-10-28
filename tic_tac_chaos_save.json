@@ -1,0 +1,26 @@
+{
+ "settings": {
+  "p1_name": "Player 1",
+  "p2_name": "Player 2",
+  "p1_emoji": "👻",
+  "p2_emoji": "🐸",
+  "theme": "Midway",
+  "sound": true,
+  "powerups": false,
+  "custom_dares": [],
+  "tourney_names": [
+   "",
+   "",
+   "",
+   ""
+  ],
+  "midway_v1": true
+ },
+ "stats": {
+  "games": 10,
+  "draws": 1,
+  "dares": 9,
+  "quakes": 5,
+  "champions": 0
+ }
+}
